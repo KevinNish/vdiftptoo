@@ -19,7 +19,8 @@ Download the repository. Navigate to the location of the folder. Run ./VDIFTPToo
 Download VDIFTPsetup.exe. Run the installer. Launch via the desktop or start menu icons created.
 
 NOTE:
-If you want to create a shortcut in a defferent location have the shortcut:
+If you want to create a shortcut in a defferent location have the shortcut setting as follows:
+
 Target: "C:\Program Files (x86)\VDI FTP Tool\Python\pythonw.exe" ..\pkgs\VDIFileTransfer.launch.pyw"
 Start in:(if you used the default install location): "C:\program files (x86)\VDI FTP Tool\Python\" 
 
