@@ -18,10 +18,12 @@ Download the repository. Navigate to the location of the folder. Run ./VDIFTPToo
 #### Windows:
 Download VDIFTPsetup.exe. Run the installer. Launch via the desktop or start menu icons created.
 
-NOTE: The installation is created with Pynsist and packaged with Inno Script. 
-If you want to create a shortcut in a defferent location have the shortcut Start in(if you used the default install location): "C:\program files (x86)\VDI FTP Tool\Python\" And set the shortcut Target to: "C:\Program Files (x86)\VDI FTP Tool\Python\pythonw.exe" ..\pkgs\VDIFileTransfer.launch.pyw"
+NOTE:
+If you want to create a shortcut in a defferent location have the shortcut:
+Target: "C:\Program Files (x86)\VDI FTP Tool\Python\pythonw.exe" ..\pkgs\VDIFileTransfer.launch.pyw"
+Start in:(if you used the default install location): "C:\program files (x86)\VDI FTP Tool\Python\" 
 
-If you used a custom installation path simply change "C:\Program Files (x86)\VDI FTP Tool\Python\pythonw.exe" our for "<your custom path>\VDI FTP Tool\Python\pythonw.exe"
+If you used a custom installation path simply change "C:\Program Files (x86)\VDI FTP Tool\Python\pythonw.exe" out for "<your custom path>\VDI FTP Tool\Python\pythonw.exe"
 
 #### FreeBSD and other Linux distributions:
 Download the repository. Navigate to the location of the folder. Run ./VDIFTPTool/Python/pythonw.exe ./VDIFTPTool/pkgs/VDIFileTransfer.launch.pyw
