@@ -16,7 +16,7 @@ I will be packing a .deb shortly
 Download the repository. Navigate to the location of the folder. Run ./VDIFTPTool/Python/pythonw.exe ./VDIFTPTool/pkgs/VDIFileTransfer.launch.pyw
 
 #### Windows:
-Download VDIFTPsetup.exe. Run the installer. Launch via the desktop or start menu icons created.
+[Download the latest release](https://github.com/KevinNish/vdiftptoo/releases/tag/v1.0) and run the installer. Launch via the desktop or start menu icons created.
 
 NOTE:
 If you want to create a shortcut in a defferent location have the shortcut setting as follows:
